@@ -8,6 +8,6 @@ Farha Mohamed Abdelsattar — Case Study Documentation
  Farha Mohamed Abdelsattar — UI/UX Designer
   Fayrouz Mohamed Elhelw — UI/UX Designer
   Salma Mohamed elsaka— UX Researcher
-Asmaa Mohammed Abdelhameed— UX Researcher
+  Asmaa Mohammed Abdelhameed— UX Researcher
 
 -Instructor: Ahmed Abozyada
